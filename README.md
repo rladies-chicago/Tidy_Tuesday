@@ -7,6 +7,8 @@ Go to [official Tidy Tuesday github repo](https://github.com/rfordatascience/tid
 
 Scroll down to week 44 and download NYC Squirrel Census Data.
 
+[99 percent invisible podcast on how squirrel dataset was created](https://99percentinvisible.org/episode/uptown-squirrel/)
+
 **Resources**
 
 [Tidyverse cheat sheet from RStudio](https://rstudio.com/resources/cheatsheets/)
